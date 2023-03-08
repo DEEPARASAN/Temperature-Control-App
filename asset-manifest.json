@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Temperature-Control-App.git/static/css/main.a4d1e4a3.css",
+    "main.js": "/Temperature-Control-App.git/static/js/main.781269b0.js",
+    "index.html": "/Temperature-Control-App.git/index.html",
+    "main.a4d1e4a3.css.map": "/Temperature-Control-App.git/static/css/main.a4d1e4a3.css.map",
+    "main.781269b0.js.map": "/Temperature-Control-App.git/static/js/main.781269b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4d1e4a3.css",
+    "static/js/main.781269b0.js"
+  ]
+}
